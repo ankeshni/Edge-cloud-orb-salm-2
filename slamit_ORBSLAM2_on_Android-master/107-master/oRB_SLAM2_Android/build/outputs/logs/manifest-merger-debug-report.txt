@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-90:12
+MERGED from [:openCVLibrary249] /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/openCVLibrary249/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/support-v13-23.3.0.aar/6825cb092141abd1411b4c46a90cab0d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.0.0] /home/swati/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/cb70c041df05e0e5e981931daa17c63d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/1c9a79f8ddd761c1ab94d917de501644/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.3.0.aar/004c01718c6857ba1d15c8becce0d838/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-90:12
+	package
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:9:5-10:23
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:9:22-78
+supports-screens
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:12:5-17:39
+	android:largeScreens
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:14:9-36
+	android:smallScreens
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:17:9-36
+	android:normalScreens
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:15:9-37
+	android:resizeable
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:16:9-34
+	android:anyDensity
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:13:9-34
+uses-permission#android.permission.CAMERA
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:19:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:21:22-78
+uses-feature#android.hardware.camera
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:24:9-47
+uses-feature#android.hardware.camera.front
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:30:9-53
+application
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:36:5-88:19
+MERGED from [com.android.support:support-v13:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/support-v13-23.3.0.aar/6825cb092141abd1411b4c46a90cab0d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/support-v13-23.3.0.aar/6825cb092141abd1411b4c46a90cab0d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] /home/swati/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/cb70c041df05e0e5e981931daa17c63d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] /home/swati/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/cb70c041df05e0e5e981931daa17c63d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/1c9a79f8ddd761c1ab94d917de501644/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/1c9a79f8ddd761c1ab94d917de501644/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.3.0.aar/004c01718c6857ba1d15c8becce0d838/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.3.0.aar/004c01718c6857ba1d15c8becce0d838/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:41:9-41
+	android:hardwareAccelerated
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:38:9-44
+	android:largeHeap
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:39:9-33
+	android:icon
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:40:9-39
+	android:allowBackup
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:37:9-35
+	android:theme
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:42:9-56
+activity#orb.slam2.android.MainActivity
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:43:9-52:20
+	android:screenOrientation
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:46:13-50
+	android:label
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:44:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:50:27-74
+activity#orb.slam2.android.DataSetModeActivity
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:53:9-57:20
+	android:screenOrientation
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:56:13-50
+	android:label
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:55:13-40
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:54:13-65
+activity#orb.slam2.android.CameraModeActivity
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:58:9-62:20
+	android:screenOrientation
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:61:13-50
+	android:label
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:60:13-39
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:59:13-64
+activity#orb.slam2.android.TestModeActivity
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:63:9-67:20
+	android:screenOrientation
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:66:13-50
+	android:label
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:64:13-62
+activity#orb.slam2.android.FileChooserActivity
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:68:9-72:20
+	android:screenOrientation
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:71:13-50
+	android:label
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:70:13-44
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:69:13-65
+activity#orb.slam2.android.ORBSLAMForDataSetActivity
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:73:9-77:20
+	android:screenOrientation
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:76:13-50
+	android:label
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:75:13-38
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:74:13-71
+activity#orb.slam2.android.ORBSLAMForCameraActivity
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:78:9-82:20
+	android:screenOrientation
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:81:13-50
+	android:label
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:80:13-38
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:79:13-70
+activity#orb.slam2.android.ORBSLAMForTestActivity
+ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:83:9-87:20
+	android:screenOrientation
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:86:13-50
+	android:label
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:85:13-38
+	android:name
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml:84:13-68
+uses-sdk
+INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+MERGED from [:openCVLibrary249] /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/openCVLibrary249/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary249] /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/openCVLibrary249/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v13:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/support-v13-23.3.0.aar/6825cb092141abd1411b4c46a90cab0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/support-v13-23.3.0.aar/6825cb092141abd1411b4c46a90cab0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:23.0.0] /home/swati/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/cb70c041df05e0e5e981931daa17c63d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] /home/swati/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/cb70c041df05e0e5e981931daa17c63d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/1c9a79f8ddd761c1ab94d917de501644/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/1c9a79f8ddd761c1ab94d917de501644/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.3.0.aar/004c01718c6857ba1d15c8becce0d838/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.3.0] /home/swati/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.3.0.aar/004c01718c6857ba1d15c8becce0d838/AndroidManifest.xml:20:5-43
+INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		ADDED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		INJECTED from /home/swati/slamit_Updated/slamit_ORBSLAM2_on_Android-master/107-master/oRB_SLAM2_Android/src/main/AndroidManifest.xml
